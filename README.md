@@ -1,0 +1,1 @@
+The code is created using data from 2013, that creates a Neural Network model and is used for the current weeks fantasy football data. Then it creates a lineup that follows the constraints for the website OwnersBox
